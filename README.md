@@ -1,6 +1,8 @@
 # Doge-Defense-Evasion-Ref
 
-### Defense Evasion &amp; Bypass AntiVirus reference
+## Defense Evasion &amp; Bypass AntiVirus reference
+
+### Github Repositories
 
 https://github.com/BishopFox/sliver
 
@@ -9,8 +11,6 @@ https://github.com/optiv/ScareCrow
 https://github.com/Arvanaghi/CheckPlease
 
 https://github.com/C-Sto/BananaPhone
-
-https://www.ired.team/offensive-security/defense-evasion/how-to-unhook-a-dll-using-c++
 
 https://github.com/EgeBalci/sgn
 
@@ -38,6 +38,17 @@ https://github.com/D00MFist/Go4aRun
 
 https://github.com/knownsec/shellcodeloader
 
+https://github.com/am0nsec/HellsGate
+
+https://github.com/fireeye/sunburst_countermeasures
+
+https://github.com/mjwhitta/win
+
+
+### Articles
+
+https://www.ired.team/offensive-security/defense-evasion/how-to-unhook-a-dll-using-c++
+
 https://paper.seebug.org/1413/
 
 https://www.optiv.com/explore-optiv-insights/source-zero/endpoint-detection-and-response-how-hackers-have-evolved
@@ -56,8 +67,4 @@ https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
 
 https://blogs.blackberry.com/en/2017/02/universal-unhooking-blinding-security-software
 
-https://github.com/am0nsec/HellsGate
 
-https://github.com/fireeye/sunburst_countermeasures
-
-https://github.com/mjwhitta/win
