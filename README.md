@@ -71,6 +71,7 @@ https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
 https://blogs.blackberry.com/en/2017/02/universal-unhooking-blinding-security-software
 
 
+
 https://labs.jumpsec.com/bypassing-antivirus-with-golang-gopher-it/
 
 https://www.deepinstinct.com/2019/09/15/malware-evasion-techniques-part-1-process-injection-and-manipulation/
