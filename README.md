@@ -1,8 +1,8 @@
 # Doge-Defense-Evasion-Ref
 
-## Defense Evasion &amp; Bypass AntiVirus reference
+## Defense Evasion | Bypass AntiVirus Reference
 
-### Github Repositories
+## Github Repositories
 
 https://github.com/BishopFox/sliver
 
@@ -44,8 +44,11 @@ https://github.com/fireeye/sunburst_countermeasures
 
 https://github.com/mjwhitta/win
 
+https://github.com/monoxgas/sRDI
 
-### Articles
+
+
+## Articles
 
 https://www.ired.team/offensive-security/defense-evasion/how-to-unhook-a-dll-using-c++
 
@@ -66,5 +69,4 @@ https://blog.xpnsec.com/protecting-your-malware/
 https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
 
 https://blogs.blackberry.com/en/2017/02/universal-unhooking-blinding-security-software
-
 
