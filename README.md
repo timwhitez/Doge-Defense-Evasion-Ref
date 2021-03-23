@@ -70,3 +70,19 @@ https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/
 
 https://blogs.blackberry.com/en/2017/02/universal-unhooking-blinding-security-software
 
+
+https://labs.jumpsec.com/bypassing-antivirus-with-golang-gopher-it/
+
+https://www.deepinstinct.com/2019/09/15/malware-evasion-techniques-part-1-process-injection-and-manipulation/
+
+https://www.deepinstinct.com/2019/10/29/malware-evasion-techniques-part-2-anti-vm-blog/
+
+https://www.deepinstinct.com/2019/11/24/malware-evasion-techniques-part-3-anti-sandboxing/
+
+https://www.deepinstinct.com/2020/01/12/malware-evasion-techniques-part-4-living-off-the-land/
+
+https://awakesecurity.com/blog/threat-hunting-series-detecting-command-control-in-the-cloud/
+
+https://awakesecurity.com/blog/threat-detection-all-these-silver-bullets-none-of-them-functional/
+
+https://labs.f-secure.com/archive/add-in-opportunities-for-office-persistence/
