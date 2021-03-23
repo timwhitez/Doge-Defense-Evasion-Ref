@@ -1,7 +1,7 @@
 # Doge-Defense-Evasion-Ref
-Defense Evasion &amp; Bypass AntiVirus reference
 
-```
+### Defense Evasion &amp; Bypass AntiVirus reference
+
 https://github.com/BishopFox/sliver
 
 https://github.com/optiv/ScareCrow
@@ -61,5 +61,3 @@ https://github.com/am0nsec/HellsGate
 https://github.com/fireeye/sunburst_countermeasures
 
 https://github.com/mjwhitta/win
-
-```
