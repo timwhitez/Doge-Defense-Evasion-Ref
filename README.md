@@ -87,3 +87,5 @@ https://awakesecurity.com/blog/threat-hunting-series-detecting-command-control-i
 https://awakesecurity.com/blog/threat-detection-all-these-silver-bullets-none-of-them-functional/
 
 https://labs.f-secure.com/archive/add-in-opportunities-for-office-persistence/
+
+https://sevrosecurity.com/2020/10/14/alaris-a-protective-loader/
