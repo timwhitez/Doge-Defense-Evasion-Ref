@@ -91,3 +91,7 @@ https://awakesecurity.com/blog/threat-detection-all-these-silver-bullets-none-of
 https://labs.f-secure.com/archive/add-in-opportunities-for-office-persistence/
 
 https://sevrosecurity.com/2020/10/14/alaris-a-protective-loader/
+
+
+## 🚀Star Trend
+[![Stargazers over time](https://starchart.cc/timwhitez/Doge-Defense-Evasion-Ref.svg)](https://starchart.cc/timwhitez/Doge-Defense-Evasion-Ref)
