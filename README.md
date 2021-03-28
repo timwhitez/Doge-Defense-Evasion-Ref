@@ -92,6 +92,7 @@ https://labs.f-secure.com/archive/add-in-opportunities-for-office-persistence/
 
 https://sevrosecurity.com/2020/10/14/alaris-a-protective-loader/
 
+https://offs3cg33k.medium.com/antivirus-evasion-bypass-techniques-b547cc51c371
 
 ## 🚀Star Trend
 [![Stargazers over time](https://starchart.cc/timwhitez/Doge-Defense-Evasion-Ref.svg)](https://starchart.cc/timwhitez/Doge-Defense-Evasion-Ref)
